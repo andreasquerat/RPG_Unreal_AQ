@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/QUERAT_ANDREAS_UnrealProject/RPG_UE_AQ/Content/Spell/BP_Fireball.uasset"
+			]
+		}
+	]
+}
